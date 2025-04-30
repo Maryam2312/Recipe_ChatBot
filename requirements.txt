@@ -1,0 +1,10 @@
+fastapi==0.115.12
+PyPDF2==3.0.1
+pypdf==5.4.0
+langchain-community==0.3.22
+uvicorn==0.34.2
+langchain==0.3.24
+sentence-transformers==4.1.0
+numpy==2.2.5
+faiss-cpu==1.10.0
+langchain-huggingface == 0.1.2
